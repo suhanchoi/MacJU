@@ -22,7 +22,7 @@
 
 #### 아키텍처 설계도
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f0c33412-baeb-4d5c-ab03-0bf67c9029ed/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220217T190938Z&X-Amz-Expires=86400&X-Amz-Signature=ed62d1edf7491deac328a34e2ea825c563e90924fb288b96065b04ba57d318b6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.jpeg%22&x-id=GetObject)
+![img](https://lh5.googleusercontent.com/yFLoXwRILDWdUwlog3hLutivdAB-sleRNycJyrxMSU5AC0Ns1X-UaW7Jgxs3XHWF8pbmzqDU6Avggl86SawIZAcZn8BOc8Mx3-r9CyhLlF_7hS8O1QM8lySwYsG46USKOpZ3I-d2b7Yo)
 
 #### 로그인 과정
 
