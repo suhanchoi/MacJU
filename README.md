@@ -8,18 +8,6 @@
 
 ### BACKEND
 
-#### URL
-
-- 비즈니스 로직 서버
-  - http://i6c107.p.ssafy.io:8080/swagger-ui/index.html
-- 랭킹 서버
-  - http://i6c107.p.ssafy.io:8081/swagger-ui/index.html
-- Log ELK Kibana
-  - http://i6c107.p.ssafy.io:5601/
-
-- Search ELK Kibana
-  - http://i6c107.p.ssafy.io:5602/
-
 #### 아키텍처 설계도
 
 ![img](https://lh5.googleusercontent.com/yFLoXwRILDWdUwlog3hLutivdAB-sleRNycJyrxMSU5AC0Ns1X-UaW7Jgxs3XHWF8pbmzqDU6Avggl86SawIZAcZn8BOc8Mx3-r9CyhLlF_7hS8O1QM8lySwYsG46USKOpZ3I-d2b7Yo)
